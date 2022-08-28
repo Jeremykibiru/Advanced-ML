@@ -1,0 +1,4 @@
+,columns,Number,type
+5,Lot Frontage,490,float64
+8,Garage Yr Blt,159,float64
+16,Mas Vnr Area,23,float64
